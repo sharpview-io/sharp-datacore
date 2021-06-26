@@ -1,0 +1,6 @@
+.DS_Store
+deploy/index.rst
+.idea
+deploy/deploy_key
+deploy/deploy_key.pub
+tools/check_urls.csv

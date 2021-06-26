@@ -1,0 +1,22 @@
+---
+title: ECO
+homepage: http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+category: Energy
+description: The ECO data set is a comprehensive data set for non-intrusive load monitoring and occupancy detection research. It was collected in 6 Swiss households over a period of 8 months.
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources: []

@@ -1,0 +1,22 @@
+---
+title: NCI Genomic Data Commons
+homepage: https://gdc.cancer.gov/access-data/gdc-data-portal
+category: Biology
+description: The GDC Data Portal is a robust data-driven platform that allows users to search and download cancer data for analysis using modern web technologies.
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources: []

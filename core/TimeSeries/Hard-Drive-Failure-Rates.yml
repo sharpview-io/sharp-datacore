@@ -1,0 +1,25 @@
+---
+title: Hard Drive Failure Rates
+homepage: https://www.backblaze.com/hard-drive-test-data.html
+category: TimeSeries
+description:
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources: []
+references:
+  - title: Backblaze dataset analytics scripts
+    reference: https://github.com/KOLANICH/backblaze_analytics

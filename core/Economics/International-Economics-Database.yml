@@ -1,0 +1,25 @@
+---
+title: DBnomics – the world's economic database
+homepage: https://db.nomics.world/
+category: Economics
+description: Aggregates hundreds of millions of time series from several dozen sources (INSEE, Eurostat, IMF, WTO, WB...) and makes them available via a single API.
+version:
+keywords:
+image: 
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources: []
+references:
+  - title: Related data tools of Widukind
+    reference: https://github.com/Widukind

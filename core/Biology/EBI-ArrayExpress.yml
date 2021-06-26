@@ -1,0 +1,22 @@
+---
+title: EBI ArrayExpress
+homepage: http://www.ebi.ac.uk/arrayexpress/
+category: Biology
+description: ArrayExpress Archive of Functional Genomics Data stores data from high-throughput functional genomics experiments, and provides these data for reuse to the research community.
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources: []

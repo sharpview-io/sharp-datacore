@@ -1,0 +1,28 @@
+---
+title: Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements
+homepage: https://imos.aodn.org.au
+category: EarthScience
+description:
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources:
+  - title: IMOS data on Amazon S3
+    access_url: http://imos-data.s3-website-ap-southeast-2.amazonaws.com/
+    download_url:
+    format: Amazon S3
+    media_type:
+    schema:

@@ -1,0 +1,28 @@
+---
+title: NIH Microarray data
+homepage: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
+category: Biology
+description:
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources:
+  - title: NIH Microarray data on FTP
+    access_url: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
+    download_url: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
+    format:
+    media_type:
+    schema:

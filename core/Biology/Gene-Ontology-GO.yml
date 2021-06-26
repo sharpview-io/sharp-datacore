@@ -1,0 +1,22 @@
+---
+title: Gene Ontology (GO)
+homepage: http://geneontology.org/docs/download-go-annotations/
+category: Biology
+description: GO annotation files
+version:
+keywords: gene, ontology
+image: http://geneontology.org/assets/go-logo.large.png
+temporal:
+spatial:
+access_level:
+copyrights: Member of the Open Biological Ontologies Foundry
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language: English
+license:
+publisher: GO Consortium
+organization:
+issued_time:
+sources: []

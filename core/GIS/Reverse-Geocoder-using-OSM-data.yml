@@ -1,0 +1,28 @@
+---
+title: Reverse Geocoder using OSM data
+homepage: https://github.com/kno10/reversegeocode
+category: GIS
+description:
+version:
+keywords:
+image:
+temporal:
+spatial:
+access_level:
+copyrights:
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language:
+license:
+publisher:
+organization:
+issued_time:
+sources:
+  - title: Additional high-resolution data files
+    access_url: http://data.ub.uni-muenchen.de/61/
+    download_url:
+    format:
+    media_type:
+    schema:
