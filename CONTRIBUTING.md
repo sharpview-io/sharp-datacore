@@ -1,7 +1,7 @@
 # CONTRIBUTION GUIDELINES
 Contribution and suggestions are welcome! Although some easy-to-follow rules and best practices are necessary to maintain the high quality of the work.
 
-[sharpview.io](https://www.sharpview.io/) has its own [Slack Group](https://join.slack.com/t/sharpviewio/shared_invite/zt-s5xmmmc6-Cm2Zehs72UKmQqlahfAXCQ) where you can find a space consists primarily, although not solely, of its online presence in mailing lists and activities such as blog postings and comments, the GitHub repository, and so on. Part of the vision of sharpview.io is contributing a pure list of `high quality` datasets for open communities such as academia,both personal and public research, education etc.
+[sharpview.io](https://www.sharpview.io/) has its own [Slack Group](https://join.slack.com/t/sharpviewio/shared_invite/zt-s5xmmmc6-Cm2Zehs72UKmQqlahfAXCQ) where you can find a space consists primarily, although not solely, of its online presence in mailing lists and activities such as blog postings and comments, the GitHub repository, and so on. Part of the vision of sharpview.io is contributing a pure list of `high quality` datasets for open communities such as academia, both personal and public research, education etc.
 
 The following policy is a guideline to propose new data items and maintain existing items with outdated information:
 
@@ -12,9 +12,9 @@ The following policy is a guideline to propose new data items and maintain exist
     * Able to be downloaded directly from the linked site, i.e., not barred by login or purchasing;
     * No advertisement! No Spam! No reputation promotion!
 
-2. A new pull request will be merged into the core repository after passing automatic validation and maintainer's review.
+2. A new pull request will be merged into the core repository after passing automatic validation and the maintainer's review.
 
-3. An existing dataset item with outdated information (e.g., unavailable site) will be removed after a while without new update.
+3. An existing dataset item with outdated information (e.g., unavailable site) will be removed after a while without a new update.
 
 
 ## How to contribute a new data entry
@@ -38,7 +38,7 @@ Then edit data fields as you want:
 ```bash
 vim ./core/SocialMedia/NEW_DATASET.yml 
 ```
-For data validation, it requires three essential data fields: `title`, `resource`, `description`, and `category`, while the `category` should be the same with the folder name, i.e., "SocialMedia" in the example.
+For data validation, it requires three essential data fields: `title`, `resource`, `description`, and `category`, while the `category` should be the same as the folder name, i.e., "SocialMedia" in the example.
 
 In a nutshell, you should get a basic entry like
 ```yaml
@@ -69,6 +69,3 @@ git push origin main
 
 
 Thank you for your contributions and suggestions!
-
-
-
