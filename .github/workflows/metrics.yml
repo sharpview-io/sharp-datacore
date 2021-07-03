@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: [ "main"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,13 +15,12 @@ jobs:
         with:
           # ... other options
           
-          template: classic
+          template: repository
           user: sharpview-io # Optional if you're the owner of target repository and you're using your own personal token
-          repo: sharp-datacore  # Repository name
+          repo: shap-datacore  # Repository name
     
           plugin_languages: yes
-          plugin_languages_ignored: css                           # List of languages to ignore
-          plugin_languages_skipped: datasets, web-scraper                        # List of repositories to skip
+          plugin_languages_ignored: css                                 # List of languages to ignore
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..."  # Make most used languages orange and JavaScript red
           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
@@ -47,6 +46,5 @@ jobs:
           
           plugin_followup: yes
           plugin_followup_sections: repositories #
-    
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
