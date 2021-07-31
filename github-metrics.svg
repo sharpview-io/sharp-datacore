@@ -1018,13 +1018,10 @@
     color: #E7BD69;
   }
   .achievement.s .title {
-    color: #FF0000;
+    color: #EB355E;
   }
   .achievement.s .gauge.info {
-    color: #FF0000;
-  }
-  .achievement.s .icon {
-    filter: sepia() saturate(100);
+    color: #EB355E;
   }
   .achievement.secret .title{
     color: #FF76CD;
@@ -1406,7 +1403,7 @@
                 </section>
             </section>
             <footer>
-                <span>Last updated 31/07/2021, 14:24 with lowlighter/metrics@3.12.0-beta</span>
+                <span>Last updated 31/07/2021, 15:21 with lowlighter/metrics@3.12.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
