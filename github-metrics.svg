@@ -1238,7 +1238,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L2-bg)" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L3-bg)" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1330,7 +1330,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="257.6711005424686" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="257.6711005424686" y="0" width="131.9461990042357" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="257.6711005424686" y="0" width="131.9461990042357" height="8" fill="#7e858d"/>
                     <rect mask="url(#languages-bar)" x="389.61729954670426" y="0" width="70.38270045329568" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
@@ -1359,7 +1359,7 @@
                     <section>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#7e858d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       Mako
                     </div>
                             <small>
@@ -1403,7 +1403,7 @@
                 </section>
             </section>
             <footer>
-                <span>Last updated 02/08/2021, 12:15 with lowlighter/metrics@3.12.0-beta</span>
+                <span>Last updated 02/08/2021, 13:11 with lowlighter/metrics@3.12.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
